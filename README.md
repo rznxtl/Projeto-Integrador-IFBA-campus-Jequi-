@@ -139,3 +139,5 @@ foram enfrentadas e superadas barreiras de infraestrutura de software:
     pip install face_recognition opencv-python pandas streamlit
 
   fim.
+  
+Foi utilizado o auxilio do Gemini Pro, para programar este codigo, entender como ele funciona, I.A, bibliotecas utilizadas e como utilizar isso em Python
