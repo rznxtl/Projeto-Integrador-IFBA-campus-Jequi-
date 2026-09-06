@@ -1,6 +1,7 @@
 # Projeto-Integrador-IFBA-campus-Jequié
-Apenas os codigos usados para criar o projeto que consiste em uma webcam policial com reconhecimento facial do suspeito
-Projeto ainda nao 100%, feito por mim e mais 3 alunos do IFBA-jequié da turma TI432 em 2026
+Apenas os codigos usados para criar o projeto que consiste em uma webcam policial com reconhecimento facial do suspeito.
+
+Projeto ainda nao 100%, feito por mim e mais 3 alunos do IFBA-jequié da turma TI432 em 2026.
 
 ===============================================================================
 📄 BODYCAM AI - DOCUMENTAÇÃO OFICIAL DO PROJETO
